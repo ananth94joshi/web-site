@@ -239,7 +239,7 @@ const fourthElement = document.querySelector("body > main > div:nth-child(5) > d
 fourthElement.classList.add("workers");
 
 let fourthCount = 0;
-const fourthTargetCount = 32;
+const fourthTargetCount = 132;
 
 const fourthInterval = setInterval(() => {
   if (fourthCount <= fourthTargetCount) {
