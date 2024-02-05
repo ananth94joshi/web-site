@@ -223,7 +223,7 @@ const thirdElement = document.querySelector("body > main > div:nth-child(5) > di
 thirdElement.classList.add("support");
 
 let thirdCount = 0;
-const thirdTargetCount = 453;
+const thirdTargetCount = 1453;
 
 const thirdInterval = setInterval(() => {
   if (thirdCount <= thirdTargetCount) {
