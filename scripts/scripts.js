@@ -223,7 +223,7 @@ const thirdElement = document.querySelector("body > main > div:nth-child(5) > di
 thirdElement.classList.add("support");
 
 let thirdCount = 0;
-const thirdTargetCount = 1453;
+const thirdTargetCount = 453;
 
 const thirdInterval = setInterval(() => {
   if (thirdCount <= thirdTargetCount) {
@@ -239,7 +239,7 @@ const fourthElement = document.querySelector("body > main > div:nth-child(5) > d
 fourthElement.classList.add("workers");
 
 let fourthCount = 0;
-const fourthTargetCount = 132;
+const fourthTargetCount = 32;
 
 const fourthInterval = setInterval(() => {
   if (fourthCount <= fourthTargetCount) {
